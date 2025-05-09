@@ -1,7 +1,3 @@
 title: Starblaze Wiki
 description: Wiki modular de worldbuilding, narrativa e sistemas para o Projeto Starblaze.
-theme: minima
-
-# Define manualmente as páginas no menu (ou o esvazia completamente)
-header_pages:
-  - index.md
+theme: cayman
