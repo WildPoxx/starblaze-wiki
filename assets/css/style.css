@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant&family=Uncial+Antiqua&display=swap');
+
+body {
+  font-family: 'Cormorant', serif;
+  font-size: 1.05em;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6,
+a {
+  font-family: 'Uncial Antiqua', serif;
+  letter-spacing: 0.03em;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+
+a {
+  text-decoration: none;
+  color: #3366cc;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+

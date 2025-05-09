@@ -1,3 +1,11 @@
 title: Starblaze
 description: Wiki modular de worldbuilding, narrativa e sistemas para o Projeto Starblaze.
 theme: minima
+
+minima:
+  include_assets: true
+  skin: classic
+  css:
+    - /assets/css/style.css
+
+
