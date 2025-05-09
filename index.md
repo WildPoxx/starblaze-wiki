@@ -1,16 +1,10 @@
-# Wiki Starblaze
+# Bem-vindo à Wiki Starblaze
 
-Bem-vindo à Wiki Oficial do Projeto Starblaze.
+Esta é a Wiki Oficial do Projeto Starblaze — uma ambientação modular de fantasia sombria para RPGs e narrativas expansivas.
 
 ## Seções Principais
 
-- [[Cosmologia]]
-- [[História]]
-- [[Regiões]]
-- [[Raças e Culturas]]
-- [[Magia]]
-- [[Facções]]
-- [[Personagens]]
-- [[Narrativa]]
-- [[Mapas]]
-- [[Templates e Ferramentas]]
+- [Cosmologia](Cosmologia/index.md)
+- [História](Historia/index.md)
+- ...
+
