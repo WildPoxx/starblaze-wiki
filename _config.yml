@@ -1,3 +1,6 @@
-theme: minima
 title: Starblaze Wiki
 description: Wiki modular de worldbuilding, narrativa e sistemas para o Projeto Starblaze.
+theme: minima
+
+# Remover itens gerados automaticamente no nav bar
+header_pages: []

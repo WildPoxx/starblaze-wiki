@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmologia/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cosmologia/index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cosmologia/index.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,6 +183,7 @@
   },
   "active": "64983f9418c4b56e",
   "lastOpenFiles": [
+    "Cosmologia/index.md",
     "index.md",
     "Templates/index.md",
     "Regioes/index.md",
@@ -193,7 +194,6 @@
     "Magia/index.md",
     "Historia/index.md",
     "Faccoes/index.md",
-    "Cosmologia/index.md",
     "starblaze_wiki_index_files/Templates/index.md",
     "starblaze_wiki_index_files/Templates",
     "starblaze_wiki_index_files/Mapas/index.md",
