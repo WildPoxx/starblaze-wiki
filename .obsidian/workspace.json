@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Cosmologia/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Cosmologia/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Cosmologia/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -181,23 +181,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "726b64dc86e3ee90",
+  "active": "64983f9418c4b56e",
   "lastOpenFiles": [
     "index.md",
+    "Templates/index.md",
+    "Regioes/index.md",
+    "RacasCulturas/index.md",
+    "Personagens/index.md",
+    "Narrativa/index.md",
+    "Mapas/index.md",
+    "Magia/index.md",
+    "Historia/index.md",
+    "Faccoes/index.md",
+    "Cosmologia/index.md",
+    "starblaze_wiki_index_files/Templates/index.md",
+    "starblaze_wiki_index_files/Templates",
+    "starblaze_wiki_index_files/Mapas/index.md",
+    "starblaze_wiki_index_files/Mapas",
+    "starblaze_wiki_index_files/Narrativa/index.md",
+    "starblaze_wiki_index_files/Narrativa",
+    "starblaze_wiki_index_files/Personagens/index.md",
+    "starblaze_wiki_index_files/Personagens",
+    "starblaze_wiki_index_files/Faccoes/index.md",
+    "starblaze_wiki_index_files/Faccoes",
+    "starblaze_wiki_index_files/Magia/index.md",
+    "starblaze_wiki_index_files/Magia",
+    "starblaze_wiki_index_files/RacasCulturas/index.md",
+    "starblaze_wiki_index_files/RacasCulturas",
+    "starblaze_wiki_index_files/Regioes/index.md",
+    "starblaze_wiki_index_files/Regioes",
+    "starblaze_wiki_index_files/Historia/index.md",
+    "starblaze_wiki_index_files/Historia",
+    "starblaze_wiki_index_files/Cosmologia/index.md",
+    "starblaze_wiki_index_files/Cosmologia",
     "README.md",
     "_config.yml.md",
-    "_config.yml",
-    "_config.yml.txt",
-    "New Documento de Texto.txt",
     "_config.md",
     "index.md.md",
-    "Templates",
-    "Mapas",
-    "Narrativa",
-    "Personagens",
-    "Faccoes",
-    "Magia",
-    "RacasCulturas",
     "Bem-vindo.md"
   ]
 }
