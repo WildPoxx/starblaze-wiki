@@ -1,4 +1,4 @@
-# Bem-vindo à Wiki Starblaze
+<span style="font-size: 1.8em; font-weight: bold;">Bem-vindo à Starblaze</span>
 
 Esta é a Wiki Oficial do Projeto Starblaze — um universo de fantasia sombria, estruturado de forma modular para worldbuilding, narrativa expansiva e sistemas diversos de RPG.
 
@@ -16,4 +16,3 @@ Esta é a Wiki Oficial do Projeto Starblaze — um universo de fantasia sombria,
 - [Narrativa](Narrativa/index.md)
 - [Mapas](Mapas/index.md)
 - [Templates e Ferramentas](Templates/index.md)
-

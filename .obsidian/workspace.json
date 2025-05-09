@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "index"
             }
           }
         ]
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para README"
+              "title": "Links inversos para index"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de README"
+              "title": "Sumário de index"
             }
           }
         ]
@@ -181,8 +181,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "790627a923bb1267",
+  "active": "64983f9418c4b56e",
   "lastOpenFiles": [
+    "README.md",
+    "jekyll-theme-prologue-master.zip",
     "Unconfirmed 872620.crdownload",
     "Unconfirmed 274034.crdownload",
     "Unconfirmed 699921.crdownload",
@@ -190,7 +192,6 @@
     "ET-Jekyll-master.zip",
     "Unconfirmed 233444.crdownload",
     "index.md",
-    "README.md",
     "Cosmologia/index.md",
     "Templates/index.md",
     "Regioes/index.md",
@@ -208,9 +209,7 @@
     "starblaze_wiki_index_files/Narrativa/index.md",
     "starblaze_wiki_index_files/Narrativa",
     "starblaze_wiki_index_files/Personagens/index.md",
-    "starblaze_wiki_index_files/Personagens",
     "starblaze_wiki_index_files/Faccoes/index.md",
-    "starblaze_wiki_index_files/Faccoes",
     "starblaze_wiki_index_files/Magia/index.md",
     "starblaze_wiki_index_files/RacasCulturas/index.md",
     "starblaze_wiki_index_files/Regioes/index.md",
