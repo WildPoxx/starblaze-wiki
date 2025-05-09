@@ -1,3 +1,0 @@
-theme: minima
-title: Starblaze Wiki
-description: Wiki modular de worldbuilding, narrativa e sistemas para o Projeto Starblaze.
