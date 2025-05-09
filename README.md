@@ -3,6 +3,8 @@
 **Wiki oficial do Projeto Starblaze**  
 Worldbuilding modular para ambientação de fantasia sombria, narrativa expansível e múltiplos sistemas de RPG (D&D, Savage Worlds, etc.).
 
+https://wildpoxx.github.io/starblaze-wiki/
+
 ---
 
 ## 🌌 Estrutura do Projeto
